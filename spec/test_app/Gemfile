@@ -15,7 +15,7 @@ require '../../lib/hyperloop/component/version'
 gem 'hyper-react', Hyperloop::Component::VERSION #, path: '../../../hyper-react'
 gem 'hyper-spec', Hyperloop::Component::VERSION #, path: '../../../hyper-spec'
 gem 'hyper-component', path: '../..'
-gem 'mini_racer', '~> 0.1.15', platforms: :ruby
+gem 'mini_racer', '~> 0.2.4', platforms: :ruby
 
 gem 'puma'
 
